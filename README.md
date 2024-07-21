@@ -24,7 +24,9 @@ H3C iMC 存在远程命令执行漏洞（RCE +批量RCE）
 
 致远OA wpsAssistServlet 任意文件上传漏洞(getshell+批量检测)
 
-金蝶云星空反序列化漏洞(RCE） 畅捷通T+任意文件上传(CNVD-2022-60632 )
+金蝶云星空反序列化漏洞(RCE）
+
+畅捷通T+任意文件上传(CNVD-2022-60632 )
 
 泛微 E-Office文件上传漏洞（CVE-2023-2523)
 
