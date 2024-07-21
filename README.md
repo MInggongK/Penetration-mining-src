@@ -33,3 +33,9 @@ H3C iMC 存在远程命令执行漏洞（RCE +批量RCE）
 Struts+RCE
 
 由于各种原因，目前项目尚未完善，感兴趣的朋友可以下载项目源码，手动添加其他功能
+
+部分功能执行效果：
+
+![image](https://github.com/MInggongK/Penetration-mining-src/blob/main/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98src%E9%9B%86%E6%88%90%E7%89%88/dsf.png)
+
+![image](https://github.com/MInggongK/Penetration-mining-src/blob/main/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98src%E9%9B%86%E6%88%90%E7%89%88/sda.png)
