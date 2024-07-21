@@ -47,10 +47,6 @@ Struts+RCE
 
 ![image](https://github.com/MInggongK/Penetration-mining-src/blob/main/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98src%E9%9B%86%E6%88%90%E7%89%88/gjhg.png)
 
-致远OA wpsAssistServlet 任意文件上传漏洞
-
-![image](https://github.com/MInggongK/Penetration-mining-src/blob/main/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98src%E9%9B%86%E6%88%90%E7%89%88/dfg.png)
-
 
 
 
