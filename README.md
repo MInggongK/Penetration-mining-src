@@ -28,8 +28,6 @@ H3C iMC 存在远程命令执行漏洞（RCE +批量RCE）
 
 万户OA fileUpload.controller 任意文件上传漏洞
 
-致远漏洞一键检测（RCE+getshell)
-
 Struts+RCE
 
 由于各种原因，目前项目尚未完善，感兴趣的朋友可以下载项目源码，手动添加其他功能
