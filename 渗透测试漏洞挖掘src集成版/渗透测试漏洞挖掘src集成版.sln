@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "渗透测试漏洞挖掘src集成版", "渗透测试漏洞挖掘src集成版.csproj", "{DEC8183F-EB18-4007-A483-00AF7D2B8153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC8183F-EB18-4007-A483-00AF7D2B8153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC8183F-EB18-4007-A483-00AF7D2B8153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC8183F-EB18-4007-A483-00AF7D2B8153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC8183F-EB18-4007-A483-00AF7D2B8153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74492C1F-5BB7-4092-BFB5-B1AFD0F1AA40}
+	EndGlobalSection
+EndGlobal
